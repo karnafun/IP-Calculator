@@ -1,0 +1,10 @@
+C:\Users\Karnafun\source\repos\SubnetMasking\SubnetMasking\obj\Debug\SubnetMasking.csprojAssemblyReference.cache
+C:\Users\Karnafun\source\repos\SubnetMasking\SubnetMasking\obj\Debug\SubnetMasking.Form1.resources
+C:\Users\Karnafun\source\repos\SubnetMasking\SubnetMasking\obj\Debug\SubnetMasking.Properties.Resources.resources
+C:\Users\Karnafun\source\repos\SubnetMasking\SubnetMasking\obj\Debug\SubnetMasking.csproj.GenerateResource.cache
+C:\Users\Karnafun\source\repos\SubnetMasking\SubnetMasking\obj\Debug\SubnetMasking.csproj.CoreCompileInputs.cache
+C:\Users\Karnafun\source\repos\SubnetMasking\SubnetMasking\bin\Debug\SubnetMasking.exe.config
+C:\Users\Karnafun\source\repos\SubnetMasking\SubnetMasking\bin\Debug\SubnetMasking.exe
+C:\Users\Karnafun\source\repos\SubnetMasking\SubnetMasking\bin\Debug\SubnetMasking.pdb
+C:\Users\Karnafun\source\repos\SubnetMasking\SubnetMasking\obj\Debug\SubnetMasking.exe
+C:\Users\Karnafun\source\repos\SubnetMasking\SubnetMasking\obj\Debug\SubnetMasking.pdb
