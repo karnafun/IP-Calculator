@@ -179,11 +179,12 @@ namespace SubnetMasking
 
         public string StringResults()
         {
-            string res = "Subnet mask:" + PrintArr(SubnetMask) + Environment.NewLine;
-            res += "Net ID:" + PrintArr(NetID) + Environment.NewLine;
-            res += "First Host:" + PrintArr(FirstHost) + Environment.NewLine;
-            res += "Last Host:" + PrintArr(LastHost) + Environment.NewLine;
-            res += "Broadcast:" + PrintArr(Broadcast) + Environment.NewLine;
+            string res = "Input IP: \t" + PrintArr(IpAddress) + Environment.NewLine;
+             res += "Subnet mask: \t" + PrintArr(SubnetMask) + Environment.NewLine;
+            res += "Net ID:\t" + PrintArr(NetID) + Environment.NewLine;
+            res += "First Host: \t" + PrintArr(FirstHost) + Environment.NewLine;
+            res += "Last Host: \t" + PrintArr(LastHost) + Environment.NewLine;
+            res += "Broadcast: \t" + PrintArr(Broadcast) + Environment.NewLine;
             return res;
         }
 

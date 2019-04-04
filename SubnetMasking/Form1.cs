@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//Karnafun
 namespace SubnetMasking
 {
     public partial class Form1 : Form
@@ -21,14 +22,7 @@ namespace SubnetMasking
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //Find the relevant octat
-
-
-            //Check the number for the octat
-            //create subnet mask array
-            //calculate the splits/segments
-            //check which segment we are on.
-            // calculate the segment results (ID, First host, last host, broadcast.)
+           
 
         }
 
@@ -163,9 +157,11 @@ namespace SubnetMasking
             int prefix = int.Parse(txt_prefix.Text);
             IpCalculator ipCalc = new IpCalculator(ip, prefix);
             string res = ipCalc.StringResults();
-            MessageBox.Show(res);
+            lbl_res.Text = res+"\r\n\r\n\r\n";
 
         }
+
+        
     }
 }
 
